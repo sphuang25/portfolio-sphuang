@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "My Portofolio"
+  text: "6.104"
+  tagline: "Shih-Peng Huang"
   actions:
     - theme: brand
       text: Template Repository
