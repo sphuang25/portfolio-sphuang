@@ -1,5 +1,7 @@
 ---
+title: Blogs
 layout: doc
+
 ---
 
 <script setup>
@@ -8,7 +10,7 @@ layout: doc
 </script>
 
 # Blogs
-
+# iterate through the collection
 <ul v-if="blogs.length > 0">
   <li v-for="blog of blogs">
     <a :href="withBase(blog.url)">{{ blog.frontmatter.title }}</a>
