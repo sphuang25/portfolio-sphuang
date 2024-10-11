@@ -7,7 +7,7 @@ layout: doc
 
 ## Introduction
 
-When Arvind was introducing "consistent naming & icons," where Google Drive grid view icon and Google apps view icon looked similar. A meme(?) struct to my mind and let me present it to you:
+When Arvind was introducing "consistent naming & icons," where Google Drive grid view icon and Google apps view icon looked similar, a meme(?) struct to my mind:
 
 <center>
 <img src="./logo_Google_look_same.jpg" width="600" height="400">
