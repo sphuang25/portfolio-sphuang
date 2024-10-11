@@ -1,5 +1,5 @@
 ---
-title: Reflective Programming II- Store Usage
+title: State Management System in Vue.js - Vuex and Pinia\
 layout: doc
 ---
 
