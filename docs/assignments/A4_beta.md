@@ -94,7 +94,7 @@ layout: doc
 - create(username: string, password: string)
 - getUserById(_id: User)
 - getUserByUsername(username: string)
-- idsToUsernames(ids: Array<User>)
+- idsToUsernames(ids: Array[User])
 - getUsers(username: string)
 - authenticate(username: string, password: string)
 - updateUsername(_id: User, username: string) 
