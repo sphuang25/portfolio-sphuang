@@ -160,7 +160,7 @@ layout: doc
 - appendLabel(item: Item, content: string) 
 - removeLabelByIndex(item: Item, index: string)
 - removeLabelByContent(item: Item, content: string)
-- searchLabel(itemsToSearch: Array<Item>, label: string) 
+- searchLabel(itemsToSearch: Array[Item], label: string) 
 
 ### 7. Messaging[User, Item]
 **Purpose**
